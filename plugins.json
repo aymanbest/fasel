@@ -37,5 +37,24 @@
     "internalName": "ArabSeedProvider",
     "url": "https://github.com/aymanbest/fasel/raw/main/build/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/yoyzo/arab",
+    "fileSize": 14700,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "ImZaw"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie"
+    ],
+    "version": 1,
+    "internalName": "CimaNowProvider",
+    "url": "https://github.com/aymanbest/fasel/raw/main/build/CimaNowProvider.cs3",
+    "name": "CimaNowProvider"
 }
 ]
