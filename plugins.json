@@ -18,5 +18,26 @@
     "internalName": "FaselHDProvider",
     "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
+},
+{
+    "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/yoyzo/arab",
+    "fileSize": 13712,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+        "KingSlayer"
+    ],
+    "tvTypes": [
+        "TvSeries",
+        "Movie",
+        "Anime",
+        "Cartoon"
+    ],
+    "version": 2,
+    "internalName": "AkwamProvider",
+    "url": "https://github.com/aymanbest/fasel/raw/main/build/AkwamProvider.cs3",
+    "name": "AkwamProvider"
 }
 ]
