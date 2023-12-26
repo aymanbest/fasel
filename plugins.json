@@ -16,7 +16,7 @@
     ],
     "version": 7,
     "internalName": "FaselHDProvider",
-    "url": "https://codeberg.org/cloudstream/arab/raw/branch/builds/FaselHDProvider.cs3",
+    "url": "https://raw.githubusercontent.com/aymanbest/fasel/main/plugins.json",
     "name": "FaselHDProvider"
 }
 ]

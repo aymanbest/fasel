@@ -1,0 +1,8 @@
+{
+    "name": "FaselHDProvider",
+    "description": "Cloudstream FaselHDProvider",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/aymanbest/fasel/main/plugins.json"
+    ]
+  }
