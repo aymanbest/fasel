@@ -41,12 +41,12 @@
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/yoyzo/arab",
+    "repositoryUrl": "https://github.com/KingSlayer/FaselHD",
     "fileSize": 14700,
     "status": 1,
     "language": "ar",
     "authors": [
-        "ImZaw"
+        "KingSlayer"
     ],
     "tvTypes": [
         "TvSeries",
