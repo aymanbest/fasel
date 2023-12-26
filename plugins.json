@@ -1,7 +1,7 @@
 [{
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/fasel",
+    "repositoryUrl": "https://codeberg.org/KingSlayer/FaselHD",
     "fileSize": 16194,
     "status": 1,
     "language": "ar",
@@ -16,7 +16,7 @@
     ],
     "version": 7,
     "internalName": "FaselHDProvider",
-    "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
+    "url": "https://codeberg.org/KingSlayer/FaselHD/raw/branch/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
 }
 ]

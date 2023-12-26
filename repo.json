@@ -3,6 +3,6 @@
     "description": "Cloudstream FaselHDProvider",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/aymanbest/fasel/main/plugins.json"
+      "https://codeberg.org/KingSlayer/FaselHD/raw/branch/main/plugins.json"
     ]
   }
