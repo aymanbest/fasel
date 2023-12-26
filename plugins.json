@@ -20,10 +20,10 @@
     "name": "FaselHDProvider"
 },
 {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/yoyzo/arab",
-    "fileSize": 13712,
+    "repositoryUrl": "https://codeberg.org/KingSlayer/FaselHD",
+    "fileSize": 16392,
     "status": 1,
     "language": "ar",
     "authors": [
@@ -31,13 +31,11 @@
     ],
     "tvTypes": [
         "TvSeries",
-        "Movie",
-        "Anime",
-        "Cartoon"
+        "Movie"
     ],
-    "version": 2,
-    "internalName": "AkwamProvider",
-    "url": "https://github.com/aymanbest/fasel/raw/main/build/AkwamProvider.cs3",
-    "name": "AkwamProvider"
+    "version": 3,
+    "internalName": "ArabSeedProvider",
+    "url": "https://github.com/aymanbest/fasel/raw/main/build/ArabSeedProvider.cs3",
+    "name": "ArabSeedProvider"
 }
 ]
