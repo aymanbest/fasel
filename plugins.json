@@ -21,7 +21,7 @@
 },
 {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
-    "apiVersion": 1,
+    "apiVersion": 2,
     "repositoryUrl": "https://codeberg.org/KingSlayer/FaselHD",
     "fileSize": 16392,
     "status": 1,
