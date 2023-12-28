@@ -46,14 +46,14 @@
     "status": 1,
     "language": "ar",
     "authors": [
-        "KingSlayer"
+        "Kingseclink"
     ],
     "tvTypes": [
         "TvSeries",
         "Movie",
         "Anime"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "MyCimaProvider",
     "url": "https://github.com/aymanbest/fasel/raw/main/build/MyCimaProvider.cs3",
     "name": "MyCimaProvider"
