@@ -73,5 +73,26 @@
         "internalName": "EgyDeadProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/EgyDeadProvider.cs3",
         "name": "EgyDeadProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/fasel",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 10,
+        "internalName": "FaselHDProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
     }
 ]
