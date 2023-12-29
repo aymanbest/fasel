@@ -53,5 +53,25 @@
         "internalName": "ArabSeedProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/ArabSeedProvider.cs3",
         "name": "ArabSeedProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "EgyDeadProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/EgyDeadProvider.cs3",
+        "name": "EgyDeadProvider"
     }
 ]
