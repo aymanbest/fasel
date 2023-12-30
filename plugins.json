@@ -78,5 +78,26 @@
         "internalName": "AnimeBlkomProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 15333,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "Shahid4uProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/Shahid4uProvider.cs3",
+        "name": "Shahid4uProvider"
     }
 ]
