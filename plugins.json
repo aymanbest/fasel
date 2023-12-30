@@ -58,5 +58,25 @@
         "description": "This pack contains Anime4up and Witanime",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/Anime4upPack.cs3",
         "name": "Anime4upPack"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 13332,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeBlkomProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeBlkomProvider.cs3",
+        "name": "AnimeBlkomProvider"
     }
 ]
