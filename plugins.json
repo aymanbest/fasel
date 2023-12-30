@@ -1,64 +1,9 @@
-[{
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/fasel",
-        "fileSize": 16939,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "FajerShowProvider",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
-        "name": "FajerShowProvider"
-    },
+[
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 20624,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 3,
-        "internalName": "AnimeiatProvider",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeiatProvider.cs3",
-        "name": "AnimeiatProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 16392,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "ImZaw"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 6,
-        "internalName": "ArabSeedProvider",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/ArabSeedProvider.cs3",
-        "name": "ArabSeedProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
-        "fileSize": 13531,
+        "fileSize": 19538,
         "status": 1,
         "language": "ar",
         "authors": [
@@ -69,30 +14,9 @@
             "Movie",
             "Anime"
         ],
-        "version": 5,
-        "internalName": "EgyDeadProvider",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/EgyDeadProvider.cs3",
-        "name": "EgyDeadProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/aymanbest/fasel",
-        "fileSize": 16194,
-        "status": 1,
-        "language": "ar",
-        "authors": [
-            "kingslayer_007"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "Anime",
-            "AsianDrama"
-        ],
-        "version": 10,
-        "internalName": "FaselHDProvider",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
-        "name": "FaselHDProvider"
+        "version": 8,
+        "internalName": "MyCimaProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
     }
 ]
