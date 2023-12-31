@@ -74,7 +74,7 @@
             "AnimeMovie",
             "OVA"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "AnimeBlkomProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeBlkomProvider.cs3",
         "name": "AnimeBlkomProvider"
