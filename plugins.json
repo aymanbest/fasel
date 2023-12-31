@@ -113,7 +113,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "AnimeiatProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeiatProvider.cs3",
         "name": "AnimeiatProvider"
