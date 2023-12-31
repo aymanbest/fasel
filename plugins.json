@@ -132,7 +132,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "Shoffree",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
         "name": "FajerShowProvider"
