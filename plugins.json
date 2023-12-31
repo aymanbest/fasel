@@ -99,5 +99,23 @@
         "internalName": "Shahid4uProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/Shahid4uProvider.cs3",
         "name": "Shahid4uProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 20624,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "AnimeiatProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
     }
 ]
