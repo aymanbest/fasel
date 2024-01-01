@@ -119,7 +119,7 @@
         "name": "AnimeiatProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://shoffree.top&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
         "fileSize": 16939,
@@ -132,7 +132,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "Shoffree",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
         "name": "FajerShowProvider"
