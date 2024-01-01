@@ -153,7 +153,7 @@
             "Anime",
             "Cartoon"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "AkwamProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/AkwamProvider.cs3",
         "name": "AkwamProvider"
