@@ -126,15 +126,15 @@
         "status": 1,
         "language": "ar",
         "authors": [
-            "ImZaw"
+            "KingSlayer_007"
         ],
         "tvTypes": [
             "TvSeries",
             "Movie"
         ],
-        "version": 21,
+        "version": 1,
         "internalName": "Shoffree",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
-        "name": "FajerShowProvider"
+        "name": "ShoffreeProvider"
     }
 ]
