@@ -121,7 +121,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=shoffree.top&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 16939,
         "status": 1,
         "language": "ar",
@@ -132,9 +132,9 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "Shoffree",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/ShoffreeProvider.cs3",
         "name": "ShoffreeProvider"
     },
     {
