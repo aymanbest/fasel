@@ -173,7 +173,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "EgyBest",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/EgyBestProvider.cs3",
         "name": "EgyBestProvider"
