@@ -197,5 +197,25 @@
         "internalName": "SagaProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=streamsaga.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Saram",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/Saram.cs3",
+        "name": "SaramProvider"
     }
 ]
