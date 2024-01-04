@@ -33,7 +33,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 10,
+        "version": 11,
         "internalName": "ArabSeedProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/ArabSeedProvider.cs3",
         "name": "ArabSeedProvider"
