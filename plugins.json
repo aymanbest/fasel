@@ -215,5 +215,24 @@
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "CimaNowProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
     }
 ]
