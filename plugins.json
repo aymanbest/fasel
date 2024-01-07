@@ -211,7 +211,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "ToktokProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/Toktok.cs3",
         "name": "ToktokProvider"
