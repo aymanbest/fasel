@@ -80,7 +80,7 @@
         "name": "AnimeBlkomProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=o77.shop&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
         "fileSize": 15333,
@@ -95,7 +95,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 13,
+        "version": 14,
         "internalName": "Shahid4uProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/Shahid4uProvider.cs3",
         "name": "Shahid4uProvider"
