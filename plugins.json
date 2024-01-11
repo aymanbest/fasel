@@ -234,5 +234,24 @@
         "internalName": "CimaNowProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
+    },
+    {
+        "iconUrl": "https://i.ibb.co/0VTHBBL/Design-sans-titre.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 22,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream Filtered NSFW",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/TimefourTv.cs3",
+        "name": "TimefourTv"
     }
 ]
