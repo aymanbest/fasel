@@ -173,7 +173,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 8,
+        "version": 9,
         "internalName": "egydead",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/EgyDeadProvider.cs3",
         "name": "egydeadProvider"
