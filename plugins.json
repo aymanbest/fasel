@@ -248,7 +248,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "TimefourTv",
         "description": "Sport Live Stream Filtered NSFW",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/TimefourTv.cs3",
