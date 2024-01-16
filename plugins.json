@@ -267,9 +267,9 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "UgeenTv",
-        "description": "Sport Live Stream",
+        "description": "Clone The UgeenTv With Your own Link",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CanliTV.cs3",
         "name": "UgeenTv"
     }
