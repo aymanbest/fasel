@@ -267,7 +267,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "UgeenTv",
         "description": "Sport Live Stream",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CanliTV.cs3",
