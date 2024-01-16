@@ -272,5 +272,24 @@
         "description": "Clone The UgeenTv With Your own Link",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CanliTV.cs3",
         "name": "UgeenTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=fbox.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 15379,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 8,
+        "internalName": "FboxTv",
+        "description": "Fbox.to",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/SflixProvider.cs3",
+        "name": "FboxTv"
     }
 ]
