@@ -272,5 +272,24 @@
         "description": "Clone The UgeenTv With Your own Link",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CanliTV.cs3",
         "name": "UgeenTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=3isk.biz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/yoyzo/arab",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "3isk",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/3isk.cs3",
+        "name": "3isk"
     }
 ]
