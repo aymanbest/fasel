@@ -306,7 +306,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 5,
+        "version": 6,
         "internalName": "asian2tv",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/asian2tv.cs3",
         "name": "asian2tv"
