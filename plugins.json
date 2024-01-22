@@ -14,7 +14,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 21,
+        "version": 22,
         "internalName": "MyCimaProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
