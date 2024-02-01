@@ -330,4 +330,23 @@
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FajerShowProvider.cs3",
         "name": "FajerShowProvider"
     }
+    ,
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.btolat.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Btolat",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/btolat.cs3",
+        "name": "Btolat"
+    }
 ]
