@@ -344,7 +344,7 @@
         "tvTypes": [
             "Others"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Btolat",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/btolat.cs3",
         "name": "Btolat"
