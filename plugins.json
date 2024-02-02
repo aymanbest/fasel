@@ -230,7 +230,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CimaNowProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
