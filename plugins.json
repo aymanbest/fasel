@@ -350,7 +350,7 @@
         "name": "Btolat"
     },
     {
-        "iconUrl": "https://png.pngtree.com/png-vector/20201118/ourmid/pngtree-live-icon-vector-png-image_2459849.jpg",
+        "iconUrl": "https://i.ibb.co/ygGWcC0/oha-letter-logo-design-on-black-background-oha-creative-initials-letter-logo-concept-oha-letter-desi.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
         "fileSize": 15379,
@@ -362,7 +362,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "Ohatv",
         "description": "Sport Live Stream Filtered NSFW",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/ohatv.cs3",
