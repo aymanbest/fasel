@@ -362,7 +362,7 @@
         "tvTypes": [
             "Live"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "Ohatv",
         "description": "Sport Live Stream Filtered NSFW",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/ohatv.cs3",
