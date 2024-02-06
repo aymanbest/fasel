@@ -368,5 +368,26 @@
         "url": "https://github.com/aymanbest/fasel/raw/main/build/ohatv.cs3",
         "name": "Ohatv"
     }
+    ,
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://cooolman.store&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "CoolCima",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/coolcima.cs3",
+        "name": "CoolCima"
+    }
     
 ]
