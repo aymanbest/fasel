@@ -388,6 +388,26 @@
         "internalName": "CoolCima",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/coolcima.cs3",
         "name": "CoolCima"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.braflix.app&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "braflix",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/braflix.cs3",
+        "name": "braflix"
     }
     
 ]
