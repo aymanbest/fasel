@@ -404,7 +404,7 @@
             "Movie",
             "Anime"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "braflix",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/braflix.cs3",
         "name": "braflix"
