@@ -192,7 +192,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 11,
+        "version": 12,
         "internalName": "SagaProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/SagaProvider.cs3",
         "name": "SagaProvider"
