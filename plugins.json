@@ -18,27 +18,28 @@
         "internalName": "MyCimaProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/MyCimaProvider.cs3",
         "name": "MyCimaProvider"
-  },
+    },
     {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/med1245/fasel",
-    "fileSize": 16194,
-    "status": 1,
-    "language": "ar",
-    "authors": [
-        "mehdimed"
-    ],
-    "tvTypes": [
-        "TvSeries",
-        "Movie",
-        "Anime",
-        "AsianDrama"
-    ],
-    "version": 16,
-    "internalName": "FaselHDProvider",
-    "url": "https://github.com/med1245/fasel/raw/main/build/FaselHDProvider.cs3",
-    "name": "FaselHDProvider"
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/med1245/fasel",
+        "fileSize": 16392,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "mehdimed
+     ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 18,
+        "internalName": "FaselHDProvider",
+        "description": "faselhd from mehdimed",
+        "url": "https://github.com/med1245/fasel/raw/main/build/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
  },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
