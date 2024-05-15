@@ -3,7 +3,7 @@
     "description": "Cloudstream FaselHDProvider",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/med1245/fasel/main/plugins.json"
+      "https://github.com/med1245/fasel/blob/main/plugins.json"
     ]
   }
   
