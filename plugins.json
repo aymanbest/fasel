@@ -429,5 +429,26 @@
         "internalName": "365 SHOW",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/365.cs3",
         "name": "365 SHOW"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/fasel",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "FaselHDProvider",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
     }
 ]
