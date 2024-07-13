@@ -221,7 +221,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/yoyzo/arab",
         "fileSize": 13531,
-        "status": 1,
+        "status": 2,
         "language": "ar",
         "authors": [
             "ImZaw"
@@ -230,7 +230,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "CimaNowProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/CimaNowProvider.cs3",
         "name": "CimaNowProvider"
