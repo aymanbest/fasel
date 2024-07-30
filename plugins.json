@@ -465,7 +465,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "JOY Cinema",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/joynema.cs3",
         "name": "JOY Cinema"
