@@ -450,5 +450,24 @@
         "internalName": "FaselHDProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
         "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://joynema.store&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "JOY Cinema",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/joynema.cs3",
+        "name": "JOY Cinema"
     }
 ]
