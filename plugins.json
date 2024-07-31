@@ -390,7 +390,7 @@
         "name": "CoolCima"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=https://www.braflix.app&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fboxz.to&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/aymanbest/Arabico",
         "fileSize": 16939,
@@ -405,9 +405,9 @@
             "Anime"
         ],
         "version": 28,
-        "internalName": "braflix",
-        "url": "https://github.com/aymanbest/fasel/raw/main/build/braflix.cs3",
-        "name": "braflix"
+        "internalName": "fboxz",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/fboxz.cs3",
+        "name": "fboxz"
     }
     ,
     {
