@@ -490,5 +490,26 @@
         "description": "Yet Another Piracy Site",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/yaps.cs3",
         "name": "Y.A.P.S"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://yaps.therarbg.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Anime3rb",
+        "description": "Anime Arabe",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/anim3rb.cs3",
+        "name": "Anime3rb"
     }
 ]
