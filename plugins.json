@@ -506,7 +506,7 @@
             "AnimeMovie",
             "Others"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "Anime3rb",
         "description": "Anime Arabe",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/anim3rb.cs3",
