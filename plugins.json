@@ -512,4 +512,24 @@
         "url": "https://github.com/aymanbest/fasel/raw/main/build/anim3rb.cs3",
         "name": "Anime3rb"
     }
+    ,
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://yaps.therarbg.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/aymanbest/Arabico",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "kingslayer_007"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "test",
+        "description": "test",
+        "url": "https://github.com/aymanbest/fasel/raw/main/build/test.cs3",
+        "name": "test"
+    }
 ]
