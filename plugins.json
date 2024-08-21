@@ -526,7 +526,7 @@
         "tvTypes": [
             "Movie"
         ],
-        "version": 6,
+        "version": 7,
         "internalName": "test",
         "description": "test",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/test.cs3",
