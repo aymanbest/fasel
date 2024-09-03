@@ -446,7 +446,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "FaselHDProvider",
         "url": "https://github.com/aymanbest/fasel/raw/main/build/FaselHDProvider.cs3",
         "name": "FaselHDProvider"
